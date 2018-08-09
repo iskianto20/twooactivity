@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">twooactivity</string>
+    <string name="button_main">Send</string>
+    <string name="secondactivity">secondactivity</string>
+    <string name="text_header">Pesan diterima</string>
+
+    <string name="editText_main">tulis pesan anda</string>
+
+    <string name="text_header_reply">balasan</string>
+    <string name="editText">balasan</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+
+
+</resources>
